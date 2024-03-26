@@ -1,8 +1,8 @@
-# Hi 👋 there! I'm Munees !
+# Hi 👋, I'm Munees !
 
-🌱 A  passionate front-end developer constantly learning and exploring new technologies in the ever-evolving world of web development.
-💡 Always experimenting with innovative ideas and staying up-to-date with the latest trends in front-end development.
-😊 Let's connect and collaborate on building something awesome together! #FrontendDev #WebDevelopment
+-🌱 A  passionate front-end developer constantly learning and exploring new technologies in the ever-evolving world of web development.
+-💡 Always experimenting with innovative ideas and staying up-to-date with the latest trends in front-end development.
+-😊 Let's connect and collaborate on building something awesome together! #FrontendDev #WebDevelopment
 
 ---
 
