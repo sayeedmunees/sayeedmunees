@@ -107,7 +107,7 @@
   <img src="https://img.shields.io/badge/Thunder_Client-181717.svg?style=flat-square&logo=lightning&logoColor=white" alt="Thunder Client">
 </a>
   <a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </a>
   <a href="https://cursor.sh/" target="_blank">
   <img src="https://img.shields.io/badge/Cursor-000000.svg?style=flat-square&logo=code&logoColor=white" alt="Cursor">
