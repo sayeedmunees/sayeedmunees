@@ -52,4 +52,68 @@
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
+    <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/C++-00599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  </a>
+  <a href="https://mui.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Material_UI-007FFF.svg?style=flat-square&logo=mui&logoColor=white" alt="Material UI">
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  </a>
+  <a href="https://headlessui.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Headless_UI-000000.svg?style=flat-square&logo=headlessui&logoColor=white" alt="Headless UI">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS" target="_blank">
+    <img src="https://img.shields.io/badge/CORS-5A29E4.svg?style=flat-square&logo=web&logoColor=white" alt="CORS">
+  </a>
+  <a href="https://axios-http.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=flat-square&logo=axios&logoColor=white" alt="Axios">
+  </a>
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=flat-square&logo=redux&logoColor=white" alt="Redux">
+  </a>
+  <a href="https://jwt.io/" target="_blank">
+    <img src="https://img.shields.io/badge/JWT-000000.svg?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
+  </a>
+  <a href="https://socket.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Socket.io-010101.svg?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io">
+  </a>
+  <a href="https://developers.google.com/identity" target="_blank">
+    <img src="https://img.shields.io/badge/Google_OAuth-4285F4.svg?style=flat-square&logo=google&logoColor=white" alt="Google OAuth">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git">
+  </a>
+  <a href="https://vercel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+  </a>
+  <a href="https://www.netlify.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=flat-square&logo=netlify&logoColor=white" alt="Netlify">
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+  </a>
+  <a href="https://www.npmjs.com/package/nodemon" target="_blank">
+    <img src="https://img.shields.io/badge/Nodemon-76D04B.svg?style=flat-square&logo=nodemon&logoColor=white" alt="Nodemon">
+  </a>
+  <a href="https://insomnia.rest/" target="_blank">
+    <img src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia">
+  </a>
+  <a href="https://www.thunderclient.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Thunder_Client-181717.svg?style=flat-square&logo=thunderclient&logoColor=white" alt="Thunder Client">
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  </a>
+  <a href="https://www.cursor.sh/" target="_blank">
+    <img src="https://img.shields.io/badge/Cursor-000000.svg?style=flat-square&logo=cursor&logoColor=white" alt="Cursor">
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+  </a>
+
 </p>
