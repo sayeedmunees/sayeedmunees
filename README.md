@@ -112,6 +112,7 @@
   <a href="https://cursor.sh/" target="_blank">
   <img src="https://img.shields.io/badge/Cursor-000000.svg?style=flat-square&logo=code&logoColor=white" alt="Cursor">
 </a>
+
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma">
   </a>
