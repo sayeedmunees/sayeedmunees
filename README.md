@@ -104,14 +104,14 @@
     <img src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia">
   </a>
   <a href="https://www.thunderclient.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Thunder_Client-181717.svg?style=flat-square&logo=thunderclient&logoColor=white" alt="Thunder Client">
-  </a>
+  <img src="https://img.shields.io/badge/Thunder_Client-181717.svg?style=flat-square&logo=lightning&logoColor=white" alt="Thunder Client">
+</a>
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  </a>
-  <a href="https://www.cursor.sh/" target="_blank">
-    <img src="https://img.shields.io/badge/Cursor-000000.svg?style=flat-square&logo=cursor&logoColor=white" alt="Cursor">
-  </a>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
+</a>
+  <a href="https://cursor.sh/" target="_blank">
+  <img src="https://img.shields.io/badge/Cursor-000000.svg?style=flat-square&logo=code&logoColor=white" alt="Cursor">
+</a>
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma">
   </a>
