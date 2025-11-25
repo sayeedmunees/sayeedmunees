@@ -11,7 +11,7 @@
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats-ten-xi-50.vercel.app/api?username=sayeedmunees&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="Status">
   <img height="50%" width="auto" src ="https://github-readme-stats-ten-xi-50.vercel.app/api/top-langs/?username=sayeedmunees&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&exclude_repo=Pacman-AI"  alt="Most Used Language">
- <img src ="https://github-readme-streak-stats-amber-ten.vercel.app?user=sayeedmunees&theme=darcula&hide_border=true&background=FFFFFF00" alt="Streak">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=sayeedmunees&theme=darcula&hide_border=true&background=FFFFFF00" alt="Streak">
 </p>
 
 ---
