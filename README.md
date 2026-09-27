@@ -1,8 +1,14 @@
-# Hi 👋, I'm Munees!
+# Hi, I'm Sayeed Munees
 
-- 🌱 A  passionate front-end developer constantly learning and exploring new technologies.
-- 💡 Always experimenting with innovative ideas and staying up-to-date with the latest trends.
-- 😊 Let's connect and collaborate on building something awesome together! #FrontendDev #WebDevelopment
+I'm a Frontend Engineer focused on building production web applications with React and TypeScript.
+
+I primarily work with React, TypeScript, Vite, Tailwind CSS, state management, API-driven applications, and performance optimization. I also have hands-on experience building full-stack applications with Node.js, Express, and MongoDB.
+
+Currently working at Internify, where I primarily focus on frontend engineering and production web applications.
+
+### Tech I work with
+
+React · TypeScript · JavaScript · Vite · Tailwind CSS · Redux Toolkit · TanStack React Query · Node.js · Express · MongoDB · Git · GitHub
 
 ---
 
