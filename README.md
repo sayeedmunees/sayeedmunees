@@ -1,5 +1,4 @@
-# Hi, I'm Sayeed Munees
-
+### Hi👋, I'm Sayeed Munees
 I'm a Frontend Engineer focused on building production web applications with React and TypeScript.
 
 I primarily work with React, TypeScript, Vite, Tailwind CSS, state management, API-driven applications, and performance optimization. I also have hands-on experience building full-stack applications with Node.js, Express, and MongoDB.
@@ -15,7 +14,7 @@ React · TypeScript · JavaScript · Vite · Tailwind CSS · Redux Toolkit · Ta
 <p align="center">
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=sayeedmunees&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats-ten-xi-50.vercel.app/api?username=sayeedmunees&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="Status">
+  <!-- <img height="50%" width="auto" src ="https://github-readme-stats-ten-xi-50.vercel.app/api?username=sayeedmunees&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="Status"> -->
   <img height="50%" width="auto" src ="https://github-readme-stats-ten-xi-50.vercel.app/api/top-langs/?username=sayeedmunees&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&exclude_repo=Pacman-AI"  alt="Most Used Language">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=sayeedmunees&theme=darcula&hide_border=true&background=FFFFFF00" alt="Streak">
 </p>
